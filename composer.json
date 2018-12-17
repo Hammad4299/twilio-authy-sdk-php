@@ -7,6 +7,6 @@
   },
   "require": {
     "guzzlehttp/guzzle": "^6.3",
-    "teraception/php-utils": "0.1.0"
+    "https://gitlab.com/teraception/resources/jumpstart/laravel": ""
   }
 }
